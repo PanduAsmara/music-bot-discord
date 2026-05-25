@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables - JANGAN pernah upload ini!
+.env
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
